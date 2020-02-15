@@ -13,7 +13,7 @@ var firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
 var db = firebase.firestore();
-var code = '245698'; // client's code
+var code = '147852'; // client's code
 console.log("Firebase app created !!!!");
 
 
